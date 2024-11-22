@@ -10,6 +10,8 @@ public class SegundoEjemploApplication {
 
 		SpringApplication.run(SegundoEjemploApplication.class, args);
 		System.out.printf("Proyecto ejemplo OK");
+		System.out.println("Hello World!");
+
 	}
 
 }
