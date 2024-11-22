@@ -1,4 +1,12 @@
 ﻿# gitTestUdeA
-# Jeison Ortiz
-Dennys Arciniegas
-Alejandro Bedoya
+
+# Colabodores
+
+---
+
+## Jeison Ortiz
+## Dennys Arciniegas
+## Alejandro Bedoya
+## Eduar Trujillo
+
+---
