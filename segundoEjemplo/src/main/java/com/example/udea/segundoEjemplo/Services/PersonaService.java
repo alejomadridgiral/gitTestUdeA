@@ -39,6 +39,7 @@ public class PersonaService {
         return "Registro Exitoso!!!";
     }
 
+    //Método para actualizar la información de una persona
     public Persona updatePersona(Persona persona) {
         Persona personaToUpdate = buscarNombre(persona.getNombre());
         if(personaToUpdate != null){
@@ -52,6 +53,7 @@ public class PersonaService {
         return personaToUpdate;
     }
 
+    //Método para eliminar una persona
     public String deletePerson(String nombre) {
         Persona person = buscarNombre(nombre);
         lista.remove(person);
